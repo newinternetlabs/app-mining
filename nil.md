@@ -51,7 +51,7 @@ Apps that use Blockstack Auth as one a number of authentication methods, all wit
 
 Apps that use Blockstack Auth as  secondary authentication method will receive 1 point.
 
-Primary vs secondary is largely a subjective judgement made by the app reviewer taking into account the placement of the Sign in with Blockstack button in the app in relation to other authentication methods. Please see these sketch for guidance.
+Primary vs secondary is largely a subjective judgement made by the app reviewer taking into account the placement of the Sign in with Blockstack button in the app in relation to other authentication methods. Please see [these drawings](DigitalRightsAuthScoringCriteria.pdf) for guidance.
 
 ### Gaia Storage
 
@@ -64,9 +64,9 @@ Apps that have errors when writing to Gaia storage receive -1 points.
 ##  Review Procedure
 Apps for a given month are divided among multiple reviewers. Each app is reviewed a minimum of once. If a reviewer has trouble reviewing an app the reviewer marks the app as "needs re-review" and the app is reviewed a second time by the lead app reviewer. Any app that is is awarded less than a total of 5 points is also reviewed a second time by the lead reviewer. 
 
-In the event NIL encounters a problem with an app during review, we take screenshots or a short video of the screen to demonstrate the problem. The reviewer also makes a note in the notes section of the app review spreadsheet of the problem.
+In the event NIL encounters a problem with an app during review, we typically take screenshots or a short video of the screen to demonstrate the problem. The reviewer also makes a note in the notes section of the app review spreadsheet of the problem. These are provided to PBC along with app scores.
 
-With respect to usage of gaia, if after two reviews, neither reviewer is able to find usage of gaia (ie. because such usage is an insignificant or non-obvious part of the app), the app is awarded a gaia score of zero.
+With respect to usage of Gaia, if after two reviews, neither reviewer is able to find usage of Gaia (ie. because such usage is an insignificant or non-obvious part of the app), the app is awarded a Gaia score of zero.
 
 ## Communications
 
